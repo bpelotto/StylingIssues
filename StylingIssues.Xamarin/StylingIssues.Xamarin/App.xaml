@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StylingIssues.Xamarin.App">
+    <Application.Resources>
+
+        <Color x:Key="LabelDefaultTextColor">White</Color>
+        <Color x:Key="AllSurfaceColor">#121212</Color>
+        <Color x:Key="LabelBrandTextColor">#4B711D</Color>
+        <Color x:Key="BoxViewQuaternaryBackgroundColor">#1E1E1E</Color>
+        <Color x:Key="FramePrimaryBackgroundColor">#1E1E1E</Color>
+
+    </Application.Resources>
+</Application>
